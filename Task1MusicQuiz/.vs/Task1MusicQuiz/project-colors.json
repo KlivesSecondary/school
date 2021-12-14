@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11ad8515-d11c-4a08-bbc5-fa297188cfa7": {
+      "ProjectGuid": "11ad8515-d11c-4a08-bbc5-fa297188cfa7",
+      "DisplayName": "Task1MusicQuiz",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

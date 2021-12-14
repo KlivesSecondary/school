@@ -1,0 +1,17 @@
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.csproj.AssemblyReference.cache
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.AssemblyInfoInputs.cache
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.AssemblyInfo.cs
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.csproj.CoreCompileInputs.cache
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Task1MusicQuiz.exe
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Task1MusicQuiz.deps.json
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Task1MusicQuiz.runtimeconfig.json
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Task1MusicQuiz.dll
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\ref\Task1MusicQuiz.dll
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Task1MusicQuiz.pdb
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.csproj.CopyComplete
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.dll
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\ref\Task1MusicQuiz.dll
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.pdb
+D:\Installed Stuff\C#Projects\School\Task1MusicQuiz\Task1MusicQuiz\obj\Debug\net6.0\Task1MusicQuiz.genruntimeconfig.cache
